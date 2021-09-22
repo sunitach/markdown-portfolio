@@ -1,12 +1,12 @@
-#Skill
+# Skill
 
 Below is my sklill
 
-##TEchnical SKill
+## TEchnical SKill
 - C++
 - HTML
 - CSSS
 
-##Collaboration
+## Collaboration
 - Github
 - CShap Corner
