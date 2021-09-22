@@ -1,12 +1,12 @@
 # Skill
 
-Below is my sklill
+Below is _list_ of my **technical skills**:
 
-## TEchnical SKill
-- C++
-- HTML
-- CSSS
+## programming language
+- ruby
+- go
+- python
 
 ## Collaboration
 - Github
-- CShap Corner
+- Cit
