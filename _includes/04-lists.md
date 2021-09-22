@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#Here is My Technical Skills
+- C
+- C++
+- C sharp
+- ASP .NET
+- Bootstrap
